@@ -1,7 +1,7 @@
 const upcoming = [
-  'A focused coming-soon landing page',
-  'Portfolio-level ownership and GitHub Pages deployment',
-  'A content plan that can grow into the full site when ready',
+  'A focused coming-soon landing page for family, projects, and updates',
+  'A clean custom-domain landing page for the April Moyer site',
+  'A flexible foundation that can grow when the full site is ready',
 ]
 
 export default function Home() {
@@ -33,8 +33,8 @@ export default function Home() {
           <p className="text-sm font-semibold uppercase tracking-[0.25em] text-sky-200">Domain</p>
           <p className="mt-2 text-2xl font-semibold text-white">aprilmoyer.com</p>
           <p className="mt-4 text-sm leading-6 text-slate-300">
-            This starter site was initialized from the Free For Charity single-page template and
-            adapted for the Clarke Moyer portfolio site migration program.
+            The official home for April Moyer is coming soon. This page is ready to keep the domain
+            active while the full site content is prepared.
           </p>
         </div>
       </section>
